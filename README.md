@@ -1,6 +1,6 @@
 # Synchronize Service
 
-## Pre requisites
+## Prerequisites
 
 - Java OpenJDK 11
 - Maven >3.5
@@ -15,9 +15,9 @@ Check the docker-compose.yml in the project_root/docker to fully start all the r
 
 - Intellij IDEA
 
-## Quick start
+## Quickstart
 
-- At root folder run `mvn clean install` and then `mvn springboot:run`
+- At the root folder run `mvn clean install` and then `mvn springboot:run`
 
 - Or at root folder run `docker-compose up --build`
 
